@@ -6,4 +6,4 @@
 
 2. Based on the ![Laboratory](Pymaceuticals/Bar Plot 1.png), there is approx. 20-25% more mice in total numbers treated by Capomulin and Ramicane.
 
-3. The pie plot distribution of female vs. male mice 
+3. As for the analysis of the final tumor volume of each mouse across 4 regimens (Capomulin, Ramicane, Infubinol, and Ceftamin), determining the "final" timepoint was debatable since not every mouse survived through the entire timepoints (45). Because the writer (analyst) would point an argument that the final tumor volume does not necessarily mean of the latest timepoint (which is 45), each mouse's final timepoint and the tumor volume that's associated with that timepopint has a value to be considered in this analysis; therefore, the result of IQR and outliers reflect based on the dataset. Based on this perspective, there is one outlier for the Infubinol regimen. ![Laboratory](Pymaceuticals/Box Plot for 4 Regimens.png)
